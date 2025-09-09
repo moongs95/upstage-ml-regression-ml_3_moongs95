@@ -6,11 +6,11 @@
 
 | 권문진 | 고민서 | 김동근 | 허예경 |
 |--------|--------|--------|--------|
-| ![권문진](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**권문진** <br>팀장, 담당 역할 | ![고민서](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**고민서** <br>담당 역할 | ![김동근](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**김동근** <br>담당 역할 | ![허예경](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**허예경** <br>담당 역할 |
+| ![권문진](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**권문진** <br>팀장, Data EDA, Modeling | ![고민서](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**고민서** <br>Data EDA, Modeling | ![김동근](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**김동근** <br>Data Collection, Modeling | ![허예경](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**허예경** <br>Data Collection, Modeling |
 
 | 이수민 | 이승호 | 
 |--------|--------|
-| ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이수민** <br>담당 역할 | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이승호** <br>담당 역할 |
+| ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이수민** <br>Data Collection, Modeling | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이승호** <br>Data Collection |
 
 </p>
 
