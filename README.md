@@ -10,7 +10,7 @@
 
 | 이수민 | 이승호 | | |
 |--------|--------|---|---|
-| ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이수민** <br>담당 역할 | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이승호** <br>담당 역할 | | |
+| ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이수민** <br>담당 역할 | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이승호** <br>담당 역할 |
 
 </p>
 
