@@ -4,11 +4,11 @@
 
 | 권문진 | 고민서 | 김동근 | 허예경 |
 |--------|--------|--------|--------|
-| <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="150" style="border-radius:50%"><br>**권문진**<br>팀장, EDA, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="150" style="border-radius:50%"><br>**고민서**<br>EDA, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="150" style="border-radius:50%"><br>**김동근**<br>데이터 수집, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="150" style="border-radius:50%"><br>**허예경**<br>데이터 수집, Modeling |
+| <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**권문진**<br>팀장, EDA, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**고민서**<br>EDA, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**김동근**<br>데이터 수집, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**허예경**<br>데이터 수집, Modeling |
 
 | 이수민 | 이승호 |
 |--------|--------|
-| <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="150" style="border-radius:50%"><br>**이수민**<br>데이터 수집, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="150" style="border-radius:50%"><br>**이승호**<br>데이터 수집 |
+| <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**이수민**<br>데이터 수집, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**이승호**<br>데이터 수집 |
 
 
 
