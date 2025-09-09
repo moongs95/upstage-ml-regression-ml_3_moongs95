@@ -3,14 +3,16 @@
 
 ## 👩‍💼 팀 소개
 
-| 팀원 | 이름 | 역할 |
-|------|------|------|
-| <img src="profile1.jpg" width="80" height="80" style="border-radius:50%"> | **권문진** | 팀장, 담당 역할 |
-| <img src="profile2.jpg" width="80" height="80" style="border-radius:50%"> | **고민서** | 담당 역할 |
-| <img src="profile3.jpg" width="80" height="80" style="border-radius:50%"> | **김동근** | 담당 역할 |
-| <img src="profile4.jpg" width="80" height="80" style="border-radius:50%"> | **허예경** | 담당 역할 |
-| <img src="profile5.jpg" width="80" height="80" style="border-radius:50%"> | **이수민** | 담당 역할 |
-| <img src="profile6.jpg" width="80" height="80" style="border-radius:50%"> | **이승호** | 담당 역할 |
+## 👩‍💼 팀 소개
+
+| 권문진 | 고민서 | 김동근 | 허예경 |
+|--------|--------|--------|--------|
+| <img src="profile1.jpg" width="100" height="100" style="border-radius:50%"><br>**권문진**<br>팀장, 담당 역할 | <img src="profile2.jpg" width="100" height="100" style="border-radius:50%"><br>**고민서**<br>담당 역할 | <img src="profile3.jpg" width="100" height="100" style="border-radius:50%"><br>**김동근**<br>담당 역할 | <img src="profile4.jpg" width="100" height="100" style="border-radius:50%"><br>**허예경**<br>담당 역할 |
+
+| 이수민 | 이승호 |
+|--------|--------|
+| <img src="profile5.jpg" width="100" height="100" style="border-radius:50%"><br>**이수민**<br>담당 역할 | <img src="profile6.jpg" width="100" height="100" style="border-radius:50%"><br>**이승호**<br>담당 역할 |
+
 
 
 ## 0. Overview
