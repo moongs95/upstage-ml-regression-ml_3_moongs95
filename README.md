@@ -1,15 +1,14 @@
 # ML Group 3 - Third Party
 
-<p align="center">## 🧑‍💼👩‍💼👩‍💼 Introduce Our Team 👩‍💼👩‍💼👨‍💼</p>
+<h2 align="center">🧑‍💼👩‍💼👩‍💼 Introduce Our Team 👩‍💼👩‍💼👨‍💼</h2>
 
 | 권문진 | 고민서 | 김동근 | 허예경 |
 |--------|--------|--------|--------|
-| <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**권문진**<br>팀장, EDA, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**고민서**<br>EDA, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**김동근**<br>데이터 수집, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**허예경**<br>데이터 수집, Modeling |
+| ![권문진](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**권문진** <br>팀장, 담당 역할 | ![고민서](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**고민서** <br>담당 역할 | ![김동근](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**김동근** <br>담당 역할 | ![허예경](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**허예경** <br>담당 역할 |
 
-| 이수민 | 이승호 |
-|--------|--------|
-| <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**이수민**<br>데이터 수집, Modeling | <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="180" height="180" style="border-radius:50%"><br>**이승호**<br>데이터 수집 |
-
+| 이수민 | 이승호 | | |
+|--------|--------|---|---|
+| ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이수민** <br>담당 역할 | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이승호** <br>담당 역할 | | |
 
 
 ## 0. Overview
