@@ -1,10 +1,42 @@
 # Title (Please modify the title)
 ## Team
 
-| ![권문진](https://avatars.githubusercontent.com/u/156163982?v=4) | ![고민서](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김동근](https://avatars.githubusercontent.com/u/156163982?v=4) | ![허예경](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [권문진](https://github.com/UpstageAILab)             |            [고민서](https://github.com/UpstageAILab)             |            [김동근](https://github.com/UpstageAILab)             |            [허예경](https://github.com/UpstageAILab)             |            [이수민](https://github.com/UpstageAILab)             |            [이승호](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100"><br/>
+      <a href="https://github.com/UpstageAILab"><b>권문진</b></a><br/>
+      팀장, 담당 역할
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100"><br/>
+      <a href="https://github.com/UpstageAILab"><b>고민서</b></a><br/>
+      담당 역할
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100"><br/>
+      <a href="https://github.com/UpstageAILab"><b>김동근</b></a><br/>
+      담당 역할
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100"><br/>
+      <a href="https://github.com/UpstageAILab"><b>허예경</b></a><br/>
+      담당 역할
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100"><br/>
+      <a href="https://github.com/UpstageAILab"><b>이수민</b></a><br/>
+      담당 역할
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100"><br/>
+      <a href="https://github.com/UpstageAILab"><b>이승호</b></a><br/>
+      담당 역할
+    </td>
+  </tr>
+</table>
 
 ## 0. Overview
 ### Environment
