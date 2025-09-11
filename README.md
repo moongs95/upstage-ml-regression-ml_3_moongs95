@@ -73,7 +73,7 @@
 ### Overview
 
 ### House Price Prediction | 아파트 실거래가 예측
-
+<img width="1441" height="433" alt="image" src="https://github.com/user-attachments/assets/24d33894-2893-4418-9529-e7a105007d87" />
 서울시 아파트 실거래가 매매 데이터를 기반으로 아파트 가격을 예측하는 대회
 
 
