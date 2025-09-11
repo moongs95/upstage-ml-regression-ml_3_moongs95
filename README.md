@@ -1,5 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=ML%20Group3%20Third%20Party%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&width=800" style="width:800px; display:block; margin:auto;">
-
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=ML%20Group3%20Third%20Party%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&width=800" style="width:800px; display:block; margin:auto;">
+</div>
 
 <h2 align="center">🧑‍💼👩‍💼👩‍💼 Introduce Our Team 👩‍💼👩‍💼👨‍💼</h2>
 <div align="center">
