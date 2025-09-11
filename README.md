@@ -1,7 +1,4 @@
-# Aistages House Price Prediction | 아파트 실거래가 예측 (2025.09.01 10:00 ~ 2025.09.11 19:00)
-서울시 아파트 실거래가 매매 데이터를 기반으로 아파트 가격을 예측하는 대회
-
-# ML Group 3 - Third Party
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=ML%20Group3%20Third%20Party%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h2 align="center">🧑‍💼👩‍💼👩‍💼 Introduce Our Team 👩‍💼👩‍💼👨‍💼</h2>
 <div align="center">
