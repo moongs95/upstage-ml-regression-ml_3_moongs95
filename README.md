@@ -66,7 +66,7 @@
 ## 0. Overview
 
 ### 💻 Tech Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## 1. Competiton Info
 
@@ -172,8 +172,15 @@ House Price Prediction 경진대회는 주어진 데이터를 활용하여 서�
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+<img width="1104" height="646" alt="image" src="https://github.com/user-attachments/assets/15349317-caae-4e35-8ef0-f2f6572fb8f0" />
+
+### 🏆 Result
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-3 (Bronze)-%23cd7f32?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Final%20Score(RMSE)-12533.7751-blue?style=for-the-badge" />
+</p>
+
 
 ### Presentation
 
@@ -181,10 +188,12 @@ House Price Prediction 경진대회는 주어진 데이터를 활용하여 서�
 
 ## etc
 
-### Meeting 
+### 🤝 Meeting
 
-- 디스코드 활용
-  <img width="1805" height="806" alt="image" src="https://github.com/user-attachments/assets/dc42cdaf-35da-41e5-871b-add308a9a27d" />
+| 디스코드 활용 | 구글 드라이브 활용 |
+|---------------|-------------------|
+| <img width="600" src="https://github.com/user-attachments/assets/dc42cdaf-35da-41e5-871b-add308a9a27d" /> | <img width="300" src="https://github.com/user-attachments/assets/f143dadf-34cb-4259-87a9-0370d42d156d" /> |
+
 
 ### 📚 Reference
 
