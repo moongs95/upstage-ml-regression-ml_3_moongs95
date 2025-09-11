@@ -1,77 +1,19 @@
 # ML Group 3 - Third Party
-## Team
 
-<style>
-.team-container {
-  display: flex;
-  flex-wrap: wrap; /* 화면 크기에 따라 줄 바뀜 */
-  justify-content: center;
-  gap: 20px; /* 셀 사이 간격 */
-}
+<h2 align="center">🧑‍💼👩‍💼👩‍💼 Introduce Our Team 👩‍💼👩‍💼👨‍💼</h2>
 
-.team-member {
-  flex: 1 1 150px; /* 최소 150px, 최대 균등 */
-  max-width: 180px;
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 15px;
-  text-align: center;
-}
+<p align="center">
 
-.team-member img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  margin-bottom: 10px;
-}
+| 권문진 | 고민서 | 김동근 | 허예경 |
+|--------|--------|--------|--------|
+| ![권문진](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**권문진** <br>팀장, Data Preprocessing, Data EDA, Modeling | ![고민서](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**고민서** <br> Data Preprocessing, Data EDA, Modeling | ![김동근](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**김동근** <br>Data Collection, Data EDA, Modeling | ![허예경](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**허예경** <br>Data Collection, Data EDA, Modeling |
 
-.team-member a {
-  display: block;
-  font-weight: bold;
-  color: #333;
-  text-decoration: none;
-  margin-bottom: 5px;
-}
+| 이수민 | 이승호 | 
+|--------|--------|
+| ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이수민** <br>Data Collection, Data EDA, Modeling | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이승호** <br>Data Collection |
 
-.team-member span {
-  color: #666;
-  font-size: 0.9em;
-}
-</style>
+</p>
 
-<div class="team-container">
-  <div class="team-member">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4">
-    <a href="https://github.com/UpstageAILab">권문진</a>
-    <span>팀장, 담당 역할</span>
-  </div>
-  <div class="team-member">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4">
-    <a href="https://github.com/UpstageAILab">고민서</a>
-    <span>담당 역할</span>
-  </div>
-  <div class="team-member">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4">
-    <a href="https://github.com/UpstageAILab">김동근</a>
-    <span>담당 역할</span>
-  </div>
-  <div class="team-member">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4">
-    <a href="https://github.com/UpstageAILab">허예경</a>
-    <span>담당 역할</span>
-  </div>
-  <div class="team-member">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4">
-    <a href="https://github.com/UpstageAILab">이수민</a>
-    <span>담당 역할</span>
-  </div>
-  <div class="team-member">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4">
-    <a href="https://github.com/UpstageAILab">이승호</a>
-    <span>담당 역할</span>
-  </div>
-</div>
 
 ## 0. Overview
 ### Environment
