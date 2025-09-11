@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=ML%20Group3%20Third%20Party%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=ML%20Group3%20Third%20Party%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&width=100)
 
 <h2 align="center">🧑‍💼👩‍💼👩‍💼 Introduce Our Team 👩‍💼👩‍💼👨‍💼</h2>
 <div align="center">
