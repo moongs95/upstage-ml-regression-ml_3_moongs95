@@ -66,7 +66,7 @@
 
 ## 0. Overview
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## 1. Competiton Info
@@ -139,10 +139,15 @@ e.g.
 
 ## etc
 
-### Meeting Log
+### Meeting 
 
 - _Insert your meeting log link like Notion or Google Docs_
 
 ### Reference
 
-- 
+- [아파트 매매가 횡단면 분석](https://rstudio-pubs-static.s3.amazonaws.com/770609_5fa09d74e4b64257aa56fd6aef42d7fe.html)
+- [아파트 전세가율의 변동](https://www.ejrea.org/archive/view_article?pid=jrea-9-2-95)
+- [관련논문](http://lps3.kiss.kstudy.com.kims.kmu.ac.kr/Detail/Ar?key=4005911)
+- [주소 추출](https://www.biz-gis.com/index.php?mid=QnA&page=134&listStyle=list&m=0&document_srl=27034)
+- [코로나19 팬데믹 기간 아파트가격 결정](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO202309672000765&dbt=JAKO&koi=KISTI1.1003%2FJNL.JAKO202309672000765)
+- [관련논문](https://konkuk.dcollection.net/public_resource/pdf/200000686187_20250904110840.pdf)
