@@ -1,27 +1,59 @@
+ 
 # ML Group 3 - Third Party
 
 <h2 align="center">🧑‍💼👩‍💼👩‍💼 Introduce Our Team 👩‍💼👩‍💼👨‍💼</h2>
+<div align="center">
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
+  <div style="background-color:#f0f8ff; padding:15px; border-radius:15px; width:150px;">
+    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <b>권문진</b><br>
+    팀장, 전처리, feature engineering, eda 자료 제작, modeling
+  </div>
+</td>
+<td align="center">
+  <div style="background-color:#fef3c7; padding:15px; border-radius:15px; width:150px;">
+    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <b>고민서</b><br>
+    전처리, feature engineering, eda 자료 제작, modeling
+  </div>
+</td>
+<td align="center">
+  <div style="background-color:#d1fae5; padding:15px; border-radius:15px; width:150px;">
+    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <b>허예경</b><br>
+    자료수집, feature engineering, modeling
+  </div>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <div style="background-color:#ffe4e1; padding:15px; border-radius:15px; width:150px;">
+    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <b>김동근</b><br>
+    자료수집, 도메인 지식을 활용한 자문 및 논문 분석, eda 분석, modeling)
+  </div>
+</td>
+<td align="center">
+  <div style="background-color:#fff0f5; padding:15px; border-radius:15px; width:150px;">
+    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <b>이수민</b><br>
+    자료수집, 도메인 지식을 활용한 자문 및 논문 분석, eda 분석, modeling)
+  </div>
+</td>
+<td align="center">
+  <div style="background-color:#e0f7fa; padding:15px; border-radius:15px; width:150px;">
+    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <b>이승호</b><br>
+    자료수집
+  </div>
+</td>
+</tr>
+</table>
 
-| 권문진 | 고민서 | 김동근 | 허예경 |
-|--------|--------|--------|--------|
-<<<<<<< HEAD
-| ![권문진](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**권문진** <br>팀장, Data EDA, Modeling | ![고민서](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**고민서** <br>Data EDA, Modeling | ![김동근](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**김동근** <br>Data Collection, Modeling | ![허예경](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**허예경** <br>Data Collection, Modeling |
-
-| 이수민 | 이승호 | 
-|--------|--------|
-| ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이수민** <br>Data Collection, Modeling | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이승호** <br>Data Collection |
-=======
-| ![권문진](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**권문진** <br>팀장, Data Preprocessing, Data EDA, Modeling | ![고민서](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**고민서** <br> Data Preprocessing, Data EDA, Modeling | ![김동근](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**김동근** <br>Data Collection, Data EDA, Modeling | ![허예경](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**허예경** <br>Data Collection, Data EDA, Modeling |
-
-| 이수민 | 이승호 | 
-|--------|--------|
-| ![이수민](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이수민** <br>Data Collection, Data EDA, Modeling | ![이승호](https://avatars.githubusercontent.com/u/156163982?v=4) <br>**이승호** <br>Data Collection |
->>>>>>> upstream/main
-
-</p>
-
+</div>
 
 ## 0. Overview
 ### Environment
