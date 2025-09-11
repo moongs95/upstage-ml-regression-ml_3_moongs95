@@ -10,7 +10,7 @@
 <tr>
 <td align="center">
   <div style="background-color:#9370db; padding:15px; border-radius:15px; width:180px;">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <img src="https://avatars.githubusercontent.com/u/89570502?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>권문진 (팀장)</b><br>
     Preprocessing, Feature Engineering,<br>
     Data EDA (Making material), Modeling
@@ -18,7 +18,7 @@
 </td>
 <td align="center">
   <div style="background-color:#8a2be2; padding:15px; border-radius:15px; width:180px;">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <img src="https://avatars.githubusercontent.com/u/221927853?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>고민서</b><br>
     Preprocessing, Feature Engineering,<br>
     Data EDA (Making material), Modeling
@@ -26,7 +26,7 @@
 </td>
 <td align="center">
   <div style="background-color:#7b68ee; padding:15px; border-radius:15px; width:180px;">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <img src="https://avatars.githubusercontent.com/u/219617394?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>허예경</b><br>
     Data Collection, Feature Engineering, Modeling
   </div>
@@ -35,7 +35,7 @@
 <tr>
 <td align="center">
   <div style="background-color:#9370db; padding:15px; border-radius:15px; width:180px;">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <img src="https://avatars.githubusercontent.com/u/221468673?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>김동근</b><br>
     Data Collection, Domain Knowledge for Consultation and Literature Analysis,<br>
     Data EDA Analyze, Modeling
@@ -43,7 +43,7 @@
 </td>
 <td align="center">
   <div style="background-color:#8a2be2; padding:15px; border-radius:15px; width:180px;">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <img src="https://avatars.githubusercontent.com/u/218931464?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>이수민</b><br>
     Data Collection, Domain Knowledge for Consultation and Literature Analysis,<br>
     Data EDA Analyze, Modeling
@@ -51,7 +51,7 @@
 </td>
 <td align="center">
   <div style="background-color:#7b68ee; padding:15px; border-radius:15px; width:180px;">
-    <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
+    <img src="https://avatars.githubusercontent.com/u/228438426?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>이승호</b><br>
     Data Collection
   </div>
