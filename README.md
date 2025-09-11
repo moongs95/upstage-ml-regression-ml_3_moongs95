@@ -1,4 +1,6 @@
- 
+# House Price Prediction | 아파트 실거래가 예측 (2025.09.01 10:00 ~ 2025.09.11 19:00)
+서울시 아파트 실거래가 매매 데이터를 기반으로 아파트 가격을 예측하는 대회
+
 # ML Group 3 - Third Party
 
 <h2 align="center">🧑‍💼👩‍💼👩‍💼 Introduce Our Team 👩‍💼👩‍💼👨‍💼</h2>
@@ -7,24 +9,26 @@
 <table>
 <tr>
 <td align="center">
-  <div style="background-color:#f0f8ff; padding:15px; border-radius:15px; width:150px;">
+  <div style="background-color:#e6e6fa; padding:15px; border-radius:15px; width:150px;">
     <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
-    <b>권문진</b><br>
-    팀장, 전처리, feature engineering, eda 자료 제작, modeling
+    <b>권문진 (팀장)</b><br>
+    Preprocessing, Feature Engineering, 
+    Data Eda (Making material), Modeling
   </div>
 </td>
 <td align="center">
   <div style="background-color:#fef3c7; padding:15px; border-radius:15px; width:150px;">
     <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>고민서</b><br>
-    전처리, feature engineering, eda 자료 제작, modeling
+    Preprocessing, Feature Engineering, 
+    Data Eda (Making material), Modeling
   </div>
 </td>
 <td align="center">
   <div style="background-color:#d1fae5; padding:15px; border-radius:15px; width:150px;">
     <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>허예경</b><br>
-    자료수집, feature engineering, modeling
+    Data Collection, Feature Engineering, Modeling
   </div>
 </td>
 </tr>
@@ -33,21 +37,23 @@
   <div style="background-color:#ffe4e1; padding:15px; border-radius:15px; width:150px;">
     <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>김동근</b><br>
-    자료수집, 도메인 지식을 활용한 자문 및 논문 분석, eda 분석, modeling)
+    Data Collection, Domain Knowledge for Consultation and Literature Analysis, 
+    Data Eda Analyze, Modeling)
   </div>
 </td>
 <td align="center">
   <div style="background-color:#fff0f5; padding:15px; border-radius:15px; width:150px;">
     <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>이수민</b><br>
-    자료수집, 도메인 지식을 활용한 자문 및 논문 분석, eda 분석, modeling)
+    Data Collection, Domain Knowledge for Consultation and Literature Analysis, 
+    Data Eda Analyze, Modeling)
   </div>
 </td>
 <td align="center">
   <div style="background-color:#e0f7fa; padding:15px; border-radius:15px; width:150px;">
     <img src="https://avatars.githubusercontent.com/u/156163982?v=4" width="100" height="100" style="border-radius:50%"><br>
     <b>이승호</b><br>
-    자료수집
+    Data Collection
   </div>
 </td>
 </tr>
