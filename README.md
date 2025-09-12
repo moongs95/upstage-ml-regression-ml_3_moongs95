@@ -311,4 +311,14 @@ House Price Prediction 경진대회는 주어진 데이터를 활용하여 서�
 - 📍 [주소 추출](https://www.biz-gis.com/index.php?mid=QnA&page=134&listStyle=list&m=0&document_srl=27034)
 - 🦠 [코로나19 팬데믹 기간 아파트가격 결정](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO202309672000765&dbt=JAKO&koi=KISTI1.1003%2FJNL.JAKO202309672000765)
 - 📑 [관련 논문 (건국대)](https://konkuk.dcollection.net/public_resource/pdf/200000686187_20250904110840.pdf)
+  
+---
+## 📊 Data Sources
+- 🗺️ [네이버 클라우드 플랫폼 - 지도 API](https://www.ncloud.com/product/applicationService/maps)
+- 🎓 교육 데이터 [서울 열린데이터 광장](https://data.seoul.go.kr/)  
+- 🏠 [KB부동산 리브온 데이터허브](https://datahub.kbland.kr/)
+- 🏗️ 건설 경제 데이터 [KOSIS 국가통계포털 건설공사비지수](https://kosis.kr/)
+
+ 📌 참고사항 : 모든 데이터는 각 출처에서 제공하는 공공데이터 및 API를 기반으로 수집되었습니다.  
+
 
